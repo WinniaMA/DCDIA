@@ -1,5 +1,5 @@
 # DCDIA  
-![The overall architecture of DCDIA](https://github.com/WinniaMA/DCDIA/raw/main/figure/Fig1.png)
+![The overall architecture of DCDIA](https://github.com/WinniaMA/DCDIA/blob/main/figure/Overall-Method.jpg)
 
 ## Overview  
 This repository contains code necessary to run DCDIA model.  
