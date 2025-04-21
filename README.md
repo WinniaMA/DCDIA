@@ -1,6 +1,5 @@
 # DCDIA  
-Dynamic Cascade Disease Information-Aware Drug Combination Recommendation  
-![The overall architecture of DCDIA](./figure/Fig1.pdf)
+![The overall architecture of DCDIA](https://github.com/WinniaMA/DCDIA/raw/main/figure/Fig1.png)
 
 ## Overview  
 This repository contains code necessary to run DCDIA model.  
